@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libraries/annotations-2.0.3.jar"/>
+	<classpathentry kind="lib" path="libraries/attoparser-2.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="libraries/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="libraries/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="libraries/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="libraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libraries/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-base-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-base-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu2.1-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu2.1-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu2-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu2-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu3-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-dstu3-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-hl7org-dstu2-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-structures-hl7org-dstu2-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-validation-resources-dstu2.1-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-validation-resources-dstu2-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/hapi-fhir-validation-resources-dstu3-2.3.jar"/>
+	<classpathentry kind="lib" path="libraries/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="libraries/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="libraries/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="libraries/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="libraries/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="libraries/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="libraries/ognl-3.1.10.jar"/>
+	<classpathentry kind="lib" path="libraries/phloc-commons-4.4.6.jar"/>
+	<classpathentry kind="lib" path="libraries/phloc-schematron-2.7.1.jar"/>
+	<classpathentry kind="lib" path="libraries/Saxon-HE-9.6.0-4.jar"/>
+	<classpathentry kind="lib" path="libraries/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="libraries/spring-aop-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/spring-beans-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/spring-context-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/spring-core-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/spring-expression-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/spring-web-4.3.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="libraries/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="libraries/thymeleaf-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/unbescape-1.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libraries/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="libraries/xpp3_min-1.1.4c.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
